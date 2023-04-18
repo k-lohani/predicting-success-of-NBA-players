@@ -19,6 +19,7 @@ PCA, correlation and L1 Regularization for feature reduction.
 
 # Source of Dataset:
 https://www.kaggle.com/code/tombutton/lesson-8-predicting-success-for-nba-players/input
+https://www.nba.com
 
 # Implementation Strategy and algorithms used:
 The following are the models implemented:

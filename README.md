@@ -18,8 +18,8 @@ out of which we may opt to use the essential features only, during implementatio
 PCA, correlation and L1 Regularization for feature reduction.
 
 # Source of Dataset:
-https://www.kaggle.com/code/tombutton/lesson-8-predicting-success-for-nba-players/input
-https://www.nba.com
+1. https://www.kaggle.com/code/tombutton/lesson-8-predicting-success-for-nba-players/input
+2. https://www.nba.com
 
 # Implementation Strategy and algorithms used:
 The following are the models implemented:
